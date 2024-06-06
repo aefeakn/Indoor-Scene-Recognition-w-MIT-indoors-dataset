@@ -4,4 +4,5 @@ Purpose of this project was to train a image classifier to recognize indoor scen
 ![allIndoors](https://github.com/aefeakn/Indoor-Scene-Recognition-w-MIT-indoors-dataset/assets/60469773/7bc4e8db-9b48-4fc5-add5-d9752ba3ecc6)
 
 **MIT Indoor Dataset**
+
 https://web.mit.edu/torralba/www/indoor.html
