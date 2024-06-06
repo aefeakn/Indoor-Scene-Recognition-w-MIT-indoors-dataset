@@ -6,3 +6,7 @@ Purpose of this project was to train a image classifier to recognize indoor scen
 **MIT Indoor Dataset**
 
 https://web.mit.edu/torralba/www/indoor.html
+
+
+Modals Acc Loss:
+![image](https://github.com/aefeakn/Indoor-Scene-Recognition-w-MIT-indoors-dataset/assets/60469773/90058fe0-2629-4823-ae23-4f4f52537a16)
