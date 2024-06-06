@@ -1,0 +1,1 @@
+# Indoor-Scene-Recognition-w-MIT-indoors-dataset
