@@ -11,3 +11,7 @@ https://web.mit.edu/torralba/www/indoor.html
 Modal's Acc Loss:
 
 ![image](https://github.com/aefeakn/Indoor-Scene-Recognition-w-MIT-indoors-dataset/assets/60469773/90058fe0-2629-4823-ae23-4f4f52537a16)
+
+TO DO:
+-Fine tuning w/ Densenet, VGG16, Alexnet compare the results.
+-Try LoRA (Low rank adaptation).
